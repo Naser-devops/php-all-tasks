@@ -1,0 +1,4 @@
+body{font-family:Arial,sans-serif;max-width:640px;margin:40px auto;padding:0 16px;background:#f7f7fb;color:#222}
+input,select,textarea,button{padding:8px;margin:4px 0;font-size:15px}button{cursor:pointer}
+.box{background:#fff;padding:16px;border-radius:8px;box-shadow:0 1px 4px #0002;margin:12px 0}
+.ok{color:green}.err{color:#c00}
